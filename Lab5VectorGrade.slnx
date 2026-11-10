@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab5VectorGrade/Lab5VectorGrade.vcxproj" Id="f31691af-a9f7-46bf-b926-6b02dc610e94" />
+</Solution>
